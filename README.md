@@ -24,7 +24,7 @@ pnpm install
 
 Pour lancer le serveur :
 ```bash
-node server.js
+npx nodemon server.js
 ```
 
 Le serveur démarrera sur `http://localhost:3000`
